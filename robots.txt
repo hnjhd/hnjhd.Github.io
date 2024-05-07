@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hnjhd.github.io/sitemap.xml
